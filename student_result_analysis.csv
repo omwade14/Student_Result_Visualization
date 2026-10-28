@@ -1,0 +1,16 @@
+Roll_No,Name,English,Maths,Science,Python,DBMS,Total,Percentage,Result,Grade
+1,Ram,78,85,72,90,88,413,82.6,Pass,A
+2,Mayur,65,70,68,75,72,350,70.0,Pass,B
+3,Samarth,88,92,85,95,90,450,90.0,Pass,A+
+4,Darshan,45,55,50,60,58,268,53.6,Pass,D
+5,Omkar,90,86,92,88,94,450,90.0,Pass,A+
+6,Pranav,35,42,38,45,40,200,40.0,Pass,E
+7,Rahul,76,80,82,78,85,401,80.2,Pass,A
+8,Sai,55,48,60,52,58,273,54.6,Pass,D
+9,Raj,82,89,91,87,90,439,87.8,Pass,A
+10,Vivek,40,38,45,42,35,200,40.0,Pass,E
+11,Sham,70,75,68,80,78,371,74.2,Pass,B
+12,Ankit,60,65,58,70,68,321,64.2,Pass,C
+13,Neha,85,90,88,92,95,450,90.0,Pass,A+
+14,Pankaj,50,55,52,60,58,275,55.0,Pass,D
+15,Akash,95,92,98,94,96,475,95.0,Pass,A+
